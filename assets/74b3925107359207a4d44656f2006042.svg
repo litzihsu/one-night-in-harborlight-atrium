@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="166" viewBox="0 0 360 166"><rect x=".5" y=".5" width="359" height="165" rx="10" fill="#f1eddd" fill-opacity=".66" stroke="#aaae95"/>
+<path d="M3 42 L357 42 M3 84 L357 84 M3 126 L357 126" stroke="#c6cbb3" stroke-width="26"/>
+<path d="M3 42 L357 42 M3 84 L357 84 M3 126 L357 126" stroke="#9baf9b" stroke-dasharray="5 12" fill="none"/>
+<path d="M6 20 L6 144 M354 20 L354 144" stroke="#d8ad65" stroke-width="4"/>
+<path d="M121 26 l8 6 -8 6 M241 75 l8 6 -8 6 M121 125 l8 6 -8 6" fill="none" stroke="#9baf9b" stroke-width="2"/><text x="12" y="13" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#365e59">NOVA / FEED</text><text x="348" y="13" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end" fill="#84573b">LILA / CLAIM</text></svg>
